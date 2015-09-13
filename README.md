@@ -9,9 +9,9 @@ All inspiration taken from [MST's SIG-GAME framework](https://github.com/siggame
 
 Like many Cadre scripts this is Python 3.
 
-`
+```
 python example.py path/to/gamelog.joue
-`
+```
 
 Alternatively you can import Grappe, just as any python module:
 
